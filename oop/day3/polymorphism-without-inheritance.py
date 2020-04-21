@@ -17,6 +17,7 @@ class Plik:
     def open(self):
         print(f"Open {self} of id: {id(self)}")
 
+
 dzwi = Dzwi()
 dzwi2 = Dzwi()
 things = [dzwi, Butelka(), Okno(), Plik()]
@@ -26,4 +27,3 @@ for thing in things:
 print(id(dzwi))
 print(id(dzwi2))
 print(dzwi == dzwi2)
-

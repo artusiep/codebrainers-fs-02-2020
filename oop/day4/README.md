@@ -1,6 +1,6 @@
 TODAY:
-* Real Testing
-* .gitignore
+* Real Testing - DONE
+* .gitignore - DONE
 * iteratory
-* staticmethod
-* classmethod
+* staticmethod - DONE
+* classmethod - DONE
